@@ -1,0 +1,38 @@
+body{
+    background-color: gray;
+}
+.container{
+    width: 340px;
+    border: 5px solid yellow;
+    background-color: lightgrey;
+    box-shadow: 10px 10px;
+}
+.image {
+    width: 300px;
+    height: 200px;
+    border: 3px solid yellow;
+    margin: .5em;    
+    text-align: center;
+}
+.animalinfo {
+    width: 300px;
+    border: 3px solid yellow;
+    margin: .5em;
+    text-align: center;
+}
+.animalfact {
+    font-style: italic;
+}
+.label {
+    font-weight: bold;
+}
+.list {
+    list-style-type: none;
+    margin-left: -40px;
+}
+.name {
+    margin: .5em;
+    width: 2em;
+    padding: .1em;
+}
+
